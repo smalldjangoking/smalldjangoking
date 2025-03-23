@@ -3,10 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=smalljangoking&style=flat-square&color=brightgreen" alt="Profile views" />
 </div>
 
-## Мои навыки
+## Skills
 - **Languages:** Python, JavaScript.
 - **Инструменты:** Git, Docker, Celery, Redis, Postgres, SQLite...
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+  <img src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" width="200"/>
 </div>
