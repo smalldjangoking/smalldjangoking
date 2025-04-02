@@ -10,8 +10,8 @@
 </div>
 
 ## Skills
-- **Languages:** Python, JavaScript.
-- **Инструменты:** Git, Docker, Celery, Redis, Postgres, SQLite...
+- **Languages:** Python, JavaScript, English :)
+- **Stack:** Django, Flask, Git, Docker, Celery, Redis, Postgres, SQLite, Aiogram...
 
 <div align="center">
   <img src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" width="200"/>
