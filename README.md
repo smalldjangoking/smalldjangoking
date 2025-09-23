@@ -11,7 +11,7 @@
 
 ## Skills
 - **Languages:** Python, JavaScript, English :)
-- **Stack:** Django, Flask, Git, Docker, Celery, Redis, Postgres, SQLite, Aiogram...
+- **Stack:** Django, FastAPI, React, Git, Docker, Celery, Redis, Postgres, SQLite, Aiogram, CSS, HTML, Tailwind...
 
 <div align="center">
   <img src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" width="200"/>
