@@ -1,5 +1,6 @@
 <div align="center">
   <h1>👋 Hey there!</h1>
+  # 🚀 Creator of [ScamScan.io](https://scamscan.io) — a full-stack fraud-detection platform built with FastAPI, React and love ❤️‍🔥
   <img src="https://komarev.com/ghpvc/?username=smalljangoking&style=flat-square&color=brightgreen" alt="Profile views" />
 </div>
 
