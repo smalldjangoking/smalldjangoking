@@ -3,7 +3,7 @@
   <h3>
     🚀 Creator of 
     <a href="https://scamscan.io" target="_blank"><b>ScamScan.io</b></a> —  
-    a full-stack fraud-detection platform built with FastAPI, React and love ❤️‍🔥
+    fraud-detection platform built with FastAPI, React.
   </h3>
   <img src="https://komarev.com/ghpvc/?username=smalljangoking&style=flat-square&color=brightgreen" alt="Profile views" />
 </div>
