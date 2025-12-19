@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hey there!</h1>
   <h3>
-    🚀 Creator of 
+    🚀 My Project 
     <a href="https://scamscan.io" target="_blank"><b>ScamScan.io</b></a> —  
     fraud-detection platform built with FastAPI, React.
   </h3>
@@ -16,7 +16,7 @@
 
 ## Skills
 - **Languages:** Python, JavaScript, English :)
-- **Stack:** Django, FastAPI, React, Git, Docker, Celery, Redis, Postgres, SQLite, Aiogram, CSS, HTML, Tailwind...
+- **Stack:** Django, FastAPI, React, Git, Docker, Celery, Redis, Postgres, SQLite, Aiogram, CSS, HTML, Tailwind, Playwright...
 
 <div align="center">
   <img src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" width="200"/>
